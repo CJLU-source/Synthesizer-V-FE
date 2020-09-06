@@ -1,5 +1,16 @@
 # Synthesizer V Free Editor
 
+## 本版特点（Build 018）
+
+1. 可以直接双击打开 `.s5p`  文件！
+2. 更新到最新版，支持音源更新。
+
+![image-20200906104956678](https://i.loli.net/2020/09/06/IEP6RipKbtXHfLV.png)
+
+![image-20200906105019190](https://i.loli.net/2020/09/06/l8vARWeTBsXaQ51.png)
+
+![image-20200906105057070](https://i.loli.net/2020/09/06/n5WBo4qsTL1YPa9.png)
+
 ## 本版特点（Build 017）
 
 1. 修正了之前破解的不完美之处，移除了开始时的注册窗口
@@ -31,3 +42,8 @@
 Synthesizer V 的界面比 Vocaloid 要美观许多，对高分屏的支持也更好。相对于 V4 音源高昂的售价，SV 的主程序和音源的性价比还是非常高的，有能力请一定支持正版。
 
 有更好的建议及 BUG 可以提交 ISSUE 或 PR，感谢你的支持！
+
+
+
+注：提交 BUG 请***详细描述*** BUG 的复现过程和截图！
+
